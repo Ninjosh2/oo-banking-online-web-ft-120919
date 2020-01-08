@@ -1,3 +1,3 @@
 class Transfer
-  attr_reader :amount, :sender, 
+  attr_reader :amount, :sender, :reciever
 end
