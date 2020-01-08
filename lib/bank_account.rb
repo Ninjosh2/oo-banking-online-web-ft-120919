@@ -16,6 +16,6 @@ class BankAccount
     "Your balance is $#{balance}."
   end 
   
-  
+  def close_account 
     
 end
