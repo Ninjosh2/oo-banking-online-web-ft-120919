@@ -20,7 +20,8 @@ class BankAccount
     self.status = "closed" 
   end 
   
-  def valid?
+  def valid? 
+    balance
   
   
   
